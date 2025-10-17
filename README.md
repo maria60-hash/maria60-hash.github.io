@@ -24,7 +24,8 @@
 
     <!-- IMAGE (Ch. 2: images) -->
     <figure>
-      <img src=https://images.pexels.com/photos/4828105/pexels-photo-4828105.jpeg" alt="A colorful Hawaiian brunch spread">
+      <img src= <img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/bde4f335-c932-4ca5-b161-b7e4f60cbb9f" />
+" alt="A colorful Hawaiian brunch spread">
       <figcaption>Welcome to the islands—breakfast style!</figcaption>
     </figure>
 
@@ -79,7 +80,7 @@
       <p>Watch a short cooking tip video:</p>
       <div class="video">
         <iframe 
-          src="https://www.youtube.com/watch?v=7uR5P5zul98" 
+          src="https://www.youtube.com/watch?v=KTegZ6XARzU" 
           title="Cooking tip video"
           allowfullscreen>
         </iframe>
