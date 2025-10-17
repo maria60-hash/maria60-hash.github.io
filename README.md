@@ -24,7 +24,6 @@
 
     <!-- IMAGE (Ch. 2: images) -->
     <figure>
-      <!-- Replace the URL below with your own image later -->
       <img src=https://images.pexels.com/photos/4828105/pexels-photo-4828105.jpeg" alt="A colorful Hawaiian brunch spread">
       <figcaption>Welcome to the islands—breakfast style!</figcaption>
     </figure>
