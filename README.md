@@ -29,7 +29,7 @@
       <figcaption>Welcome to the islands—breakfast style!</figcaption>
     </figure>
 
-    <section>
+    <div id="introduction">
       <h2>What You’ll Find</h2>
       <p>This site shares easy brunch ideas with local flavors. Start simple, learn a few techniques, and enjoy fresh, happy food.</p>
       <ul>
@@ -37,9 +37,9 @@
         <li>Short ingredient lists</li>
         <li>Quick tips for better flavor</li>
       </ul>
-    </section>
+    </div>
 
-    <section>
+    <div id="recipe">
       <h2>Featured Recipe: Pineapple Fried Rice</h2>
       <p>A sweet and savory favorite—great for brunch!</p>
 
@@ -73,20 +73,7 @@
           <td>3</td>
         </tr>
       </table>
-    </section>
-
-    <section>
-      <h2>Quick Video Tip</h2>
-      <p>Watch a short cooking tip video:</p>
-      <div class="video">
-        <iframe 
-          src="https://www.youtube.com/watch?v=KTegZ6XARzU" 
-          title="Cooking tip video"
-          allowfullscreen>
-        </iframe>
-      </div>
-    </section>
-
+    </div>
   </main>
 
   <footer>
@@ -96,4 +83,3 @@
 
 </body>
 </html>
-
