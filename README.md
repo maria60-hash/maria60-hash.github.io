@@ -73,7 +73,7 @@
   </main>
 
   <footer>
-    <p>© 2025 Hawaiian Brunch • Made for class (Ch. 1–6)</p>
+    <p>© 2025 Hawaiian Brunch</p>
     <p><a href="#top">Back to top</a></p>
   </footer>
 
