@@ -16,7 +16,6 @@
   <nav>
     <ul>
       <li><a href="index.html">Home</a></li>
-      <li><a href="#">Recipes</a></li>
       <li><a href="#">About</a></li>
       <li><a href="#">Contact</a></li>
     </ul>
