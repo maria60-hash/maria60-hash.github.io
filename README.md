@@ -22,7 +22,7 @@
   </nav>
 
     <figure>
-      <img src="pineapple_fried_rice.img">
+      <img src="https://images.pexels.com/photos/10462/pexels-photo-10462.jpeg"/>
       <figcaption>Welcome to the islands—breakfast style!</figcaption>
     </figure>
 
