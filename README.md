@@ -8,34 +8,24 @@
 </head>
 <body>
 
-  <!-- HEADER (Ch. 1–2 structure & text) -->
   <header>
     <h1>Hawaiian Brunch</h1>
     <p>Simple, tasty island recipes you can make at home.</p>
   </header>
 
-  <!-- NAVIGATION (links from Ch. 2–3) -->
   <nav>
     <ul>
       <li><a href="index.html">Home</a></li>
-      <!-- You can make these pages later -->
       <li><a href="#">Recipes</a></li>
       <li><a href="#">About</a></li>
       <li><a href="#">Contact</a></li>
     </ul>
   </nav>
 
-  <!-- MAIN CONTENT (headings, paragraphs, lists, images, table) -->
-  <main>
-
-    <!-- IMAGE (Ch. 2: images) -->
     <figure>
-      <!-- Replace the URL below with your own image later -->
-      <img src="https://via.placeholder.com/1000x400?text=Hawaiian+Brunch+Hero" alt="A colorful Hawaiian brunch spread">
       <figcaption>Welcome to the islands—breakfast style!</figcaption>
     </figure>
 
-    <!-- INTRO TEXT (Ch. 1–2: basic text & structure) -->
     <section>
       <h2>What You’ll Find</h2>
       <p>This site shares easy brunch ideas with local flavors. Start simple, learn a few techniques, and enjoy fresh, happy food.</p>
@@ -46,7 +36,6 @@
       </ul>
     </section>
 
-    <!-- SIMPLE FEATURED RECIPE (lists & table from Ch. 3–4) -->
     <section>
       <h2>Featured Recipe: Pineapple Fried Rice</h2>
       <p>A sweet and savory favorite—great for brunch!</p>
@@ -83,7 +72,6 @@
     </section>
   </main>
 
-  <!-- FOOTER (basic text & link) -->
   <footer>
     <p>© 2025 Hawaiian Brunch • Made for class (Ch. 1–6)</p>
     <p><a href="#top">Back to top</a></p>
