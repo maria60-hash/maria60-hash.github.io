@@ -22,6 +22,7 @@
   </nav>
 
     <figure>
+      <img src="
       <figcaption>Welcome to the islands—breakfast style!</figcaption>
     </figure>
 
